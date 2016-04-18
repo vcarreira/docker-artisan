@@ -7,4 +7,4 @@ WORKDIR /var/www
 VOLUME /var/www
 
 ENTRYPOINT ["php", "artisan"]
-CMD ["--help"]
+CMD ["list"]
