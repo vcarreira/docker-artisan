@@ -1,4 +1,4 @@
-FROM vcarreira/php5
+FROM vcarreira/php5:latest
 
 MAINTAINER "Vitor Carreira" <vitor.carreira@gmail.com>
 
