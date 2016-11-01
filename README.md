@@ -7,7 +7,7 @@ An automated build for this repo is available on the [Docker Hub](https://regist
 This image works well when used with the [Docker Laravel](https://github.com/vcarreira/docker-laravel) multi-container solution.
 
 ## Images used by [Docker Laravel](https://github.com/vcarreira/docker-laravel)
-  - [vcarreira/nginx-php5-fpm](https://registry.hub.docker.com/u/vcarreira/nginx-php5-fpm)
+  - [vcarreira/nginx-php7-fpm](https://registry.hub.docker.com/u/vcarreira/nginx-php7-fpm)
   - [vcarreira/redis](https://registry.hub.docker.com/u/vcarreira/redis)
   - [vcarreira/composer](https://registry.hub.docker.com/u/vcarreira/composer)
   - [vcarreira/artisan](https://registry.hub.docker.com/u/vcarreira/artisan)
